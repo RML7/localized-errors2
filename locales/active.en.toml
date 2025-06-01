@@ -1,0 +1,5 @@
+[UserNotFound]
+other = "User '{{.UserID}}' not found"
+
+[ValidationError]
+other = "Field '{{.Field}}' is invalid: {{.Message}}"

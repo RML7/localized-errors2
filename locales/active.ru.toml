@@ -1,0 +1,5 @@
+[UserNotFound]
+other = "Пользователь '{{.UserID}}' не найден"
+
+[ValidationError]
+other = "Поле '{{.Field}}' неверно: {{.Message}}"
